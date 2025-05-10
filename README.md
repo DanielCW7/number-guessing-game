@@ -4,3 +4,10 @@ To use this app, simply run the randomizer.py file in your IDE terminal and foll
 The program will end when:
 - 10 incorrect attempts have been made
 - The number was guessed correctly in 10 attempts or less
+
+### 1. Install python
+
+### 2. Open this project in your terminal and enter this command to run your program:
+`python3 randomizer.py`
+
+You should expect to see the program ask for up to 10 guesses!
